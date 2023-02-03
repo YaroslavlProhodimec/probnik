@@ -1,0 +1,17 @@
+.nav {
+    background-color: blanchedalmond;
+    grid-area: n;
+    font-size: 20px;
+    line-height: 1.5;
+    padding-left: 7px;
+    padding-top: 10px;
+}
+.item  {
+    color: white;
+
+}
+.activeLink{
+    color: black;
+transition:all 1.3s;
+
+}
